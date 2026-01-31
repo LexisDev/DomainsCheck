@@ -1,5 +1,7 @@
 ## DEMO:
 https://domainscheck-main-bya3t1.laravel.cloud/
+demo@demo.demo
+demo1234
 
 # Админ панель для автоматического мониторинга доступности доменов
 
